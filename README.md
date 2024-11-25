@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">I'm Ahmed from Egypt<br>- 🔭 I’m working as Full-stack Python developer | Data Engineer. <br>- 📚 I'm currently learning AI (ML & DL).<br>- ⚡ In my free time I like to code and learn new technologies. <br>Feel Free to reach me Anytime👌...</p>
+<p align="left">I'm Ahmed from Egypt<br>- 🔭 I’m working as Full-stack Python developer | Data Engineer. <br>- 🎓 I have B.Sc. in Mechatronics Engineering. <br>- 📚 I'm currently learning AI (ML & DL).<br>- ⚡ In my free time I like to code and learn new technologies. <br>Feel Free to reach me Anytime👌...</p>
 
 ###
 
