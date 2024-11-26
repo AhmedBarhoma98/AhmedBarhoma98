@@ -36,7 +36,21 @@
 
 ###
 
-<p align="left">I'm Ahmed from Egypt ==> Check <a href='https://barhoma.netlify.app'>My-Portfoilo</a><br>- 🔭 I’m working as Full-stack Python developer | Data Engineer. <br>- 🎓 I have B.Sc. in Mechatronics Engineering. <br>- 📚 I'm currently learning AI (ML & DL).<br>- ⚡ In my free time I like to code and learn new technologies. <br>Feel Free to reach me Anytime👌...</p>
+<p align="left">I'm Ahmed from Egypt ==> Check   <a href="https://barhoma.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=My-Portfolio&logo=portfolio&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo"  />
+  </a><br>- 🔭 I’m working as Full-stack Python developer | Data Engineer. <br>- 🎓 I have B.Sc. in Mechatronics Engineering. <br>- 📚 I'm currently learning AI (ML & DL).<br>- ⚡ In my free time I like to code and learn new technologies. <br>Feel Free to reach me Anytime👌...</p>
+
+###
+
+<h3 align="left">🧧  Certifications</h3>
+
+###
+
+<ul>
+  <li>
+    IBM Data Engineering Professional Certificate
+  </li>
+</ul>
 
 ###
 
